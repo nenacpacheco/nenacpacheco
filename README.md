@@ -19,7 +19,7 @@ Sou estudante do 4º semestre de Engenharia de Software na PUCRS, apaixonada por
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" hspace="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL" hspace="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" hspace="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="C" hspace="10"/>
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" height="40" title="C" hspace="10"/>
 
 
 </p>
