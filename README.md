@@ -28,10 +28,15 @@ Sou estudante do 4º semestre de Engenharia de Software na PUCRS, apaixonada por
 
 ## 📊 Estatísticas do GitHub
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nenacpacheco&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=nenacpacheco&show_icons=true&cache_seconds=0
-)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenacpacheco&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=nenacpacheco&layout=compact&cache_seconds=0
-)
+<p align="center">
+  <!-- Estatísticas gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nenacpacheco&show_icons=true&theme=radical&cache_seconds=0"/>
+  
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenacpacheco&layout=compact&langs_count=10&theme=radical&cache_seconds=0"/>
+</p>
+
+
 
 
 
